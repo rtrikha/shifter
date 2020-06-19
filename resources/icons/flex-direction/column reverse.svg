@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>column reverse</title>
+    <desc>Created with Sketch.</desc>
+    <g id="shifter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-239.000000, -347.000000)">
+            <g id="flex-direction" transform="translate(102.000000, 347.000000)">
+                <g id="column-reverse" transform="translate(137.000000, 0.000000)">
+                    <g id="frame" fill="#2E2E2E">
+                        <rect id="Rectangle" x="7.56043956" y="0" width="2.10989011" height="39.7362637"></rect>
+                        <rect id="Rectangle-Copy-2" transform="translate(19.868132, 8.615385) rotate(90.000000) translate(-19.868132, -8.615385) " x="18.8131868" y="-11.2527473" width="2.10989011" height="39.7362637"></rect>
+                        <rect id="Rectangle-Copy-3" transform="translate(20.219780, 31.120879) rotate(90.000000) translate(-20.219780, -31.120879) " x="19.1648352" y="11.6043956" width="2.10989011" height="39.032967"></rect>
+                        <rect id="Rectangle-Copy" x="30.0659341" y="0" width="2.10989011" height="39.7362637"></rect>
+                    </g>
+                    <g id="content" transform="translate(7.560440, 7.560440)">
+                        <rect id="Rectangle" fill="#5E5E5E" x="0.879120879" y="1.05494505" width="22.1538462" height="11.2527473"></rect>
+                        <rect id="Rectangle-Copy-4" fill="#5E5E5E" x="0.879120879" y="12.3076923" width="22.1538462" height="11.2527473"></rect>
+                        <rect id="Rectangle" fill="#EDEDED" x="0.351648352" y="11.2527473" width="23.9120879" height="2.10989011"></rect>
+                        <g id="reverse" transform="translate(8.791209, 4.219780)" fill="#EDEDED">
+                            <polygon id="Rectangle" points="2.10989011 0 2.10989011 13.3626374 0 13.3626374 0 0"></polygon>
+                            <polygon id="Rectangle-Copy-5" points="7.03296703 2.81318681 7.03296703 16.1758242 4.92307692 16.1758242 4.92307692 2.81318681"></polygon>
+                        </g>
+                        <rect id="Rectangle" stroke="#EDEDED" stroke-width="2.10989011" x="1.05494505" y="1.05494505" width="22.5054945" height="22.5054945" rx="2.81318681"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

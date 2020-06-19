@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>0</title>
+    <desc>Created with Sketch.</desc>
+    <g id="shifter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-51.000000, -561.000000)">
+            <g id="flex-grow" transform="translate(51.000000, 561.000000)">
+                <g id="0">
+                    <g id="frame" fill="#2E2E2E">
+                        <rect id="Rectangle" x="7.59404151" y="0" width="2.1192674" height="39.9128694"></rect>
+                        <rect id="Rectangle-Copy-2" transform="translate(19.956435, 8.653675) rotate(90.000000) translate(-19.956435, -8.653675) " x="18.896801" y="-11.3027595" width="2.1192674" height="39.9128694"></rect>
+                        <rect id="Rectangle-Copy-3" transform="translate(20.309646, 31.259194) rotate(90.000000) translate(-20.309646, -31.259194) " x="19.2500122" y="11.6559707" width="2.1192674" height="39.2064469"></rect>
+                        <rect id="Rectangle-Copy" x="30.1995604" y="0" width="2.1192674" height="39.9128694"></rect>
+                    </g>
+                    <g id="content" transform="translate(7.594042, 7.594042)">
+                        <rect id="Rectangle" fill="#5E5E5E" x="0.883028083" y="1.0596337" width="14.9333333" height="22.4289133"></rect>
+                        <rect id="Rectangle" stroke="#EDEDED" stroke-width="2.1192674" x="1.0596337" y="1.0596337" width="22.6055189" height="22.6055189" rx="2.82568987"></rect>
+                        <rect id="Rectangle-Copy-6" fill="#EDEDED" transform="translate(8.477070, 12.450696) rotate(90.000000) translate(-8.477070, -12.450696) " x="-2.56078144" y="11.3910623" width="22.0757021" height="2.1192674"></rect>
+                        <rect id="Rectangle-Copy-9" fill="#EDEDED" transform="translate(15.894505, 12.450696) rotate(90.000000) translate(-15.894505, -12.450696) " x="4.85665446" y="11.3910623" width="22.0757021" height="2.1192674"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

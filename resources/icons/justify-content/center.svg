@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>center</title>
+    <desc>Created with Sketch.</desc>
+    <g id="shifter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1007.000000, -249.000000)">
+            <g id="justify" transform="translate(992.000000, 217.000000)">
+                <g id="justify-content" transform="translate(15.000000, 32.000000)">
+                    <g id="center">
+                        <g id="frame" fill="#2E2E2E">
+                            <rect id="Rectangle" x="7.56043956" y="0" width="2.10989011" height="39.7362637"></rect>
+                            <rect id="Rectangle-Copy-2" transform="translate(19.868132, 8.615385) rotate(90.000000) translate(-19.868132, -8.615385) " x="18.8131868" y="-11.2527473" width="2.10989011" height="39.7362637"></rect>
+                            <rect id="Rectangle-Copy-3" transform="translate(20.219780, 31.120879) rotate(90.000000) translate(-20.219780, -31.120879) " x="19.1648352" y="11.6043956" width="2.10989011" height="39.032967"></rect>
+                            <rect id="Rectangle-Copy" x="30.0659341" y="0" width="2.10989011" height="39.7362637"></rect>
+                        </g>
+                        <g id="content" transform="translate(7.560440, 7.560440)">
+                            <rect id="Rectangle" fill="#5E5E5E" x="8.08791209" y="1.05494505" width="7.73626374" height="22.3296703"></rect>
+                            <rect id="Rectangle" stroke="#EDEDED" stroke-width="2.10989011" x="1.05494505" y="1.05494505" width="22.5054945" height="22.5054945" rx="2.81318681"></rect>
+                            <rect id="Rectangle-Copy-6" fill="#EDEDED" transform="translate(8.439560, 12.395604) rotate(90.000000) translate(-8.439560, -12.395604) " x="-2.54945055" y="11.3406593" width="21.978022" height="2.10989011"></rect>
+                            <rect id="Rectangle-Copy-9" fill="#EDEDED" transform="translate(15.824176, 12.395604) rotate(90.000000) translate(-15.824176, -12.395604) " x="4.83516484" y="11.3406593" width="21.978022" height="2.10989011"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
