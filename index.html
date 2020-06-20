@@ -5,6 +5,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="/styling/main.css" />
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.11/ace.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.11.0/beautify.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.11.0/beautify-css.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.11.0/beautify-html.js"></script>
 		<title>shifter</title>
 	</head>
 	<body>
@@ -31,68 +34,82 @@
 						</div>
 					</div> -->
 				</div>
-				<div class="flex-section">
-					<div class="flex">
-						<div class="muted-heading">
-							flex-direction
-						</div>
-						<div class="selectors">
-							<img class="selectors-icon" src="./resources/icons/flex-direction/row.svg" alt="row" />
-							<img class="selectors-icon" src="./resources/icons/flex-direction/row reverse.svg" alt="row-reverse" />
-							<img class="selectors-icon" src="./resources/icons/flex-direction/column.svg" alt="column" />
-							<img class="selectors-icon" src="./resources/icons/flex-direction/column reverse.svg" alt="column-reverse" />
-						</div>
+			</div>
+
+			<div class="init-div">
+				<div class="flex">
+					<div class="muted-heading">
+						new wrapper
 					</div>
-					<div class="flex">
-						<div class="muted-heading">
-							flex-wrap
-						</div>
-						<div class="selectors">
-							<img class="selectors-icon" src="./resources/icons/flex-wrap/no wrap.svg" alt="row" />
-							<img class="selectors-icon" src="./resources/icons/flex-wrap/wrap.svg" alt="row-reverse" />
-							<img class="selectors-icon" src="./resources/icons/flex-wrap/wrap reverse.svg" alt="column" />
-						</div>
-					</div>
-					<div class="flex">
-						<div class="muted-heading">
-							align-items
-						</div>
-						<div class="selectors">
-							<img class="selectors-icon" src="./resources/icons/align-items/flex-start.svg" alt="row" />
-							<img class="selectors-icon" src="./resources/icons/align-items/center.svg" alt="row-reverse" />
-							<img class="selectors-icon" src="./resources/icons/align-items/flex-end.svg" alt="column" />
-							<img class="selectors-icon" src="./resources/icons/align-items/stretch.svg" alt="column" />
-						</div>
-					</div>
-					<div class="flex">
-						<div class="muted-heading">
-							justify content
-						</div>
-						<div class="selectors">
-							<img class="selectors-icon" src="./resources/icons/justify-content/flex-start.svg" alt="row" />
-							<img class="selectors-icon" src="./resources/icons/justify-content/center.svg" alt="row-reverse" />
-							<img class="selectors-icon" src="./resources/icons/justify-content/flex-end.svg" alt="column" />
-						</div>
-					</div>
-					<div class="flex">
-						<div class="muted-heading">
-							flex grow
-						</div>
-						<div class="selectors">
-							<img class="selectors-icon" src="./resources/icons/flex-grow/0.svg" alt="row" />
-							<img class="selectors-icon" src="./resources/icons/flex-grow/1.svg" alt="row-reverse" />
-						</div>
-					</div>
-					<div class="flex">
-						<div class="muted-heading">
-							flex basis
-						</div>
-						<div class="selectors">
-							<img class="selectors-icon" src="./resources/icons/flex-basis/0.svg" alt="row" />
-						</div>
+					<div class="selectors">
+						<img class="selectors-icon" onClick="addParent()" src="./resources/icons/div/parent.svg" alt="row" />
+						<img class="selectors-icon" onClick="addChild()" src="./resources/icons/div/child.svg" alt="row-reverse" />
 					</div>
 				</div>
 			</div>
+
+			<div class="flex-section">
+				<div class="flex">
+					<div class="muted-heading">
+						flex-direction
+					</div>
+					<div class="selectors">
+						<img class="selectors-icon" src="./resources/icons/flex-direction/row.svg" alt="row" />
+						<img class="selectors-icon" src="./resources/icons/flex-direction/row reverse.svg" alt="row-reverse" />
+						<img class="selectors-icon" src="./resources/icons/flex-direction/column.svg" alt="column" />
+						<img class="selectors-icon" src="./resources/icons/flex-direction/column reverse.svg" alt="column-reverse" />
+					</div>
+				</div>
+				<div class="flex">
+					<div class="muted-heading">
+						flex-wrap
+					</div>
+					<div class="selectors">
+						<img class="selectors-icon" src="./resources/icons/flex-wrap/no wrap.svg" alt="row" />
+						<img class="selectors-icon" src="./resources/icons/flex-wrap/wrap.svg" alt="row-reverse" />
+						<img class="selectors-icon" src="./resources/icons/flex-wrap/wrap reverse.svg" alt="column" />
+					</div>
+				</div>
+				<div class="flex">
+					<div class="muted-heading">
+						align-items
+					</div>
+					<div class="selectors">
+						<img class="selectors-icon" src="./resources/icons/align-items/flex-start.svg" alt="row" />
+						<img class="selectors-icon" src="./resources/icons/align-items/center.svg" alt="row-reverse" />
+						<img class="selectors-icon" src="./resources/icons/align-items/flex-end.svg" alt="column" />
+						<img class="selectors-icon" src="./resources/icons/align-items/stretch.svg" alt="column" />
+					</div>
+				</div>
+				<div class="flex">
+					<div class="muted-heading">
+						justify content
+					</div>
+					<div class="selectors">
+						<img class="selectors-icon" src="./resources/icons/justify-content/flex-start.svg" alt="row" />
+						<img class="selectors-icon" src="./resources/icons/justify-content/center.svg" alt="row-reverse" />
+						<img class="selectors-icon" src="./resources/icons/justify-content/flex-end.svg" alt="column" />
+					</div>
+				</div>
+				<div class="flex">
+					<div class="muted-heading">
+						flex grow
+					</div>
+					<div class="selectors">
+						<img class="selectors-icon" src="./resources/icons/flex-grow/0.svg" alt="row" />
+						<img class="selectors-icon" src="./resources/icons/flex-grow/1.svg" alt="row-reverse" />
+					</div>
+				</div>
+				<div class="flex">
+					<div class="muted-heading">
+						flex basis
+					</div>
+					<div class="selectors">
+						<img class="selectors-icon" src="./resources/icons/flex-basis/0.svg" alt="row" />
+					</div>
+				</div>
+			</div>
+
 
 			<div class="container" id="container">
 				<div class="editor" id="editor"></div>

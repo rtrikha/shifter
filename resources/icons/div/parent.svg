@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>parent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="shifter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="parent">
+            <g id="frame" fill="#2E2E2E">
+                <rect id="Rectangle" x="7.56043956" y="0" width="2.10989011" height="39.7362637"></rect>
+                <rect id="Rectangle-Copy-2" transform="translate(19.868132, 8.615385) rotate(90.000000) translate(-19.868132, -8.615385) " x="18.8131868" y="-11.2527473" width="2.10989011" height="39.7362637"></rect>
+                <rect id="Rectangle-Copy-3" transform="translate(20.219780, 31.120879) rotate(90.000000) translate(-20.219780, -31.120879) " x="19.1648352" y="11.6043956" width="2.10989011" height="39.032967"></rect>
+                <rect id="Rectangle-Copy" x="30.0659341" y="0" width="2.10989011" height="39.7362637"></rect>
+            </g>
+            <g id="content" transform="translate(19.675824, 19.675824) rotate(180.000000) translate(-19.675824, -19.675824) translate(7.175824, 7.175824)" stroke="#58A5F2" stroke-width="2.10989011">
+                <rect id="Rectangle" x="1.05494505" y="1.05494505" width="22.5054945" height="22.5054945" rx="2.81318681"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

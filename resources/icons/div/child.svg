@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>child</title>
+    <desc>Created with Sketch.</desc>
+    <g id="shifter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="child" transform="translate(20.000000, 20.000000) rotate(90.000000) translate(-20.000000, -20.000000) ">
+            <g id="frame" fill="#2E2E2E">
+                <rect id="Rectangle" x="7.56043956" y="0" width="2.10989011" height="39.7362637"></rect>
+                <rect id="Rectangle-Copy-2" transform="translate(19.868132, 8.615385) rotate(90.000000) translate(-19.868132, -8.615385) " x="18.8131868" y="-11.2527473" width="2.10989011" height="39.7362637"></rect>
+                <rect id="Rectangle-Copy-3" transform="translate(20.219780, 31.120879) rotate(90.000000) translate(-20.219780, -31.120879) " x="19.1648352" y="11.6043956" width="2.10989011" height="39.032967"></rect>
+                <rect id="Rectangle-Copy" x="30.0659341" y="0" width="2.10989011" height="39.7362637"></rect>
+            </g>
+            <g id="content" transform="translate(19.675824, 19.675824) rotate(180.000000) translate(-19.675824, -19.675824) translate(9.175824, 9.175824)" stroke="#A658F2" stroke-width="2.10989011">
+                <path d="M10.3258791,1.23076923 L2.88901099,1.23076923 C2.40348593,1.23076923 1.96392549,1.42756714 1.64574632,1.74574632 C1.32756714,2.06392549 1.13076923,2.50348593 1.13076923,2.98901099 L1.13076923,17.7626374 C1.13076923,18.2481624 1.32756714,18.6877229 1.64574632,19.005902 C1.96392549,19.3240812 2.40348593,19.5208791 2.88901099,19.5208791 L10.3258791,19.5208791 L10.3258791,1.23076923 Z" id="Rectangle-Copy-10"></path>
+                <path d="M17.7626374,1.23076923 L10.3257692,1.23076923 L10.3257692,19.5208791 L17.7626374,19.5208791 C18.2481624,19.5208791 18.6877229,19.3240812 19.005902,19.005902 C19.3240812,18.6877229 19.5208791,18.2481624 19.5208791,17.7626374 L19.5208791,2.98901099 C19.5208791,2.50348593 19.3240812,2.06392549 19.005902,1.74574632 C18.6877229,1.42756714 18.2481624,1.23076923 17.7626374,1.23076923 Z" id="Rectangle-Copy-14"></path>
+            </g>
+        </g>
+    </g>
+</svg>

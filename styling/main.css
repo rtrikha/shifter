@@ -100,32 +100,40 @@ body {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  margin-top: 6vh;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
-.flex-section .flex {
+.flex {
   height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
   margin-bottom: 5vh;
-  min-width: 33%;
 }
 
-.flex-section .flex .selectors {
+.flex .selectors {
   margin-top: 1vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   cursor: pointer;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
 }
 
-.flex-section .flex .selectors .selectors-icon {
+.flex .selectors .selectors-icon {
   opacity: 0.6;
   margin-right: 1.4vw;
 }
 
-.flex-section .flex .selectors .selectors-icon:hover {
+.flex .selectors .selectors-icon:hover {
   opacity: 1;
+}
+
+.init-div {
+  margin-top: 6vh;
 }
 
 .container {
